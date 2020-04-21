@@ -72,5 +72,5 @@ python -m app.daily_briefing # note the module-syntax invocation
 Run the app:
 
 ```py
-FLASK_APP=hello.py flask run
+FLASK_APP=web_app flask run
 ```
